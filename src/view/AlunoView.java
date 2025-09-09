@@ -14,7 +14,7 @@ public class AlunoView extends JFrame {
     private JTextArea areaListagem;
     
     public AlunoView() {
-        setTitle("Sistema Acadêmico - Gestão de Alunos");
+        setTitle("Sistema Acadêmico -  Gestão de Alunos");
         setSize(600, 500);
         setLocationRelativeTo(null);
         
